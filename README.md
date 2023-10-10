@@ -1,5 +1,7 @@
 # Gif Expert app
 
+Se crea esta aplicacion en el fin de implementar cosas basicas de react
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
